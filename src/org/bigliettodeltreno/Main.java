@@ -1,4 +1,4 @@
-package org.treni;
+package org.bigliettodeltreno;
 
 import java.util.Scanner;
 
